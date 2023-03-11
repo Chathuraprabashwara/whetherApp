@@ -1,0 +1,22 @@
+
+.right{
+
+ align-items:center;
+ justify-content:center;
+ display:flex;
+ border-top-right-radius:20px;
+ border-bottom-right-radius:20px;
+ border-color: white;
+ width: 40px;
+}
+
+.left  {
+    background-image:  linear-gradient(to right, #f2fafa, #e8f5f7, #dff1f5, #d7ebf4, #d0e6f3);
+    align-items:center;
+    justify-content:center;
+    display:flex;
+    border-top-left-radius:20px;
+    border-bottom-left-radius:20px;
+    border-color: white;
+    width: 40px;
+}
